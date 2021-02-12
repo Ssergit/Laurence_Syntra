@@ -1,0 +1,1 @@
+This is file A. It has been made in C.
